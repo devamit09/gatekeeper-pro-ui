@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Angular build output
+dist/
+out-tsc/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Environment files
+.env
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
